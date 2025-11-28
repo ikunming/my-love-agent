@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+google-adk
+google-genai
+requests
+google-generativeai
+pydantic
+sqlalchemy
+reportlab
+httpx
+asyncpg
+sqlalchemy>=2.0
